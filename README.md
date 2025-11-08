@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/Umz-Proj/LABURL)
+  - [Active Directory Home Lab](https://github.com/Umz-Proj/Active-Directory-Lab)
   - [Hello World](https://github.com/Umz-Proj/LABURL)
  
 <h2>📚Certifications</h2>
