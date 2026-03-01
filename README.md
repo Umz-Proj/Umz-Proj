@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Umz-Proj/Active-Directory-Lab)
-  - [Secure-Data-Ml-Pipeline]([https://github.com/Umz-Proj/LABURL](https://github.com/Umz-Proj/secure-data-ml-pipeline))
+  - [Secure-Data-Ml-Pipeline](https://github.com/Umz-Proj/secure-data-ml-pipeline))
  
 <h2>📚Certifications</h2>
 
