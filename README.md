@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Active Directory Home Lab] TBC
-  - [Secure-Data-Ml-Pipeline](https://github.com/Umz-Proj/secure-data-ml-pipeline))
+- [Secure-Data-Ml-Pipeline](https://github.com/Umz-Proj/secure-data-ml-pipeline)
  
 <h2>📚Certifications</h2>
 
